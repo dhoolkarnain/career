@@ -1,0 +1,179 @@
+{
+  "Nursery_UKG": {
+    "age_range": "3–5",
+    "boards": "N/A",
+    "subjects_skills": [
+      "Gross & fine motor development",
+      "Oral language & phonics",
+      "Social routines",
+      "Play-based digital literacy"
+    ],
+    "exams_olympiads": []
+  },
+  "Classes": {
+    "Class 1": {
+      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
+      "difficulty": "Low–Medium",
+      "subjects": ["English", "Hindi/Regional", "Mathematics", "EVS", "General Knowledge", "Arts & Craft", "Health & PE", "Basic ICT"],
+      "exams_olympiads": ["SOF NSO", "NCO", "IMO", "IEO", "IGKO", "ISSO", "ICSO"],
+      "skills": ["Foundational literacy", "Basic math", "Motor coordination", "Creative play"]
+    },
+    "Class 2": {
+      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
+      "difficulty": "Low–Medium",
+      "subjects": ["English", "Hindi/Regional", "Mathematics", "EVS", "GK", "Value Education"],
+      "exams_olympiads": ["SOF series", "Spell-Bee", "Quiz-Bee"],
+      "skills": ["Storytelling", "Creative expression", "Digital basics"]
+    },
+    "Class 3": {
+      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
+      "difficulty": "Low–Medium",
+      "subjects": ["English", "Hindi/Regional", "Mathematics", "EVS", "GK", "ICT", "Arts", "PE"],
+      "exams_olympiads": ["SOF series", "GK contests"],
+      "skills": ["Problem-solving", "Scratch coding basics"]
+    },
+    "Class 4": {
+      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
+      "difficulty": "Low–Medium",
+      "subjects": ["English", "Hindi/Regional", "Math", "Science", "SS", "ICT", "Arts", "PE", "Second Language"],
+      "exams_olympiads": ["SOF series", "Science fair"],
+      "skills": ["Research", "Scratch advanced"]
+    },
+    "Class 5": {
+      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
+      "difficulty": "Low–Medium",
+      "subjects": ["English", "Languages", "Math", "Science", "SS", "ICT", "Arts", "PE", "Project Work"],
+      "exams_olympiads": ["SOF series", "School science fairs"],
+      "skills": ["Presentation", "Basic report writing"]
+    },
+    "Class 6": {
+      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
+      "difficulty": "Medium–High",
+      "subjects": ["English", "Second Language", "Math", "Science", "SS", "Computer Science", "Arts", "PE"],
+      "exams_olympiads": ["SOF series", "Cambridge Primary", "PSAT 8/9"],
+      "skills": ["Lab work", "Basic coding", "Debate"]
+    },
+    "Class 7": {
+      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
+      "difficulty": "Medium–High",
+      "subjects": ["Core + Third Language", "Advanced CS"],
+      "exams_olympiads": ["SOF", "State talent-search", "Robotics fairs"],
+      "skills": ["Data handling", "Public speaking"]
+    },
+    "Class 8": {
+      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
+      "difficulty": "Medium–High",
+      "subjects": ["English", "Math", "Science", "SS", "ICT", "Arts", "PE"],
+      "exams_olympiads": ["SOF series", "Board assessments"],
+      "skills": ["Basic HTML/CSS", "Group presentation"]
+    },
+    "Class 9": {
+      "boards": ["CBSE", "ICSE", "IGCSE", "State Boards", "NIOS"],
+      "difficulty": "Medium–High",
+      "subjects": ["English", "Languages", "Math", "Science", "SS", "Electives"],
+      "exams_olympiads": ["SOF", "IGCSE", "PSAT", "IELTS"],
+      "skills": ["Essay writing", "Time management"]
+    },
+    "Class 10": {
+      "boards": ["CBSE", "ICSE", "IGCSE", "State Boards", "NIOS"],
+      "difficulty": "Medium–High",
+      "subjects": ["Same as Class 9 with practicals"],
+      "exams_olympiads": ["Board exams", "Olympiads", "SAT", "AP"],
+      "skills": ["Exam strategy", "Lab skills"]
+    },
+    "Class 11": {
+      "streams": {
+        "Science": {
+          "boards": ["CBSE", "ICSE", "IB"],
+          "subjects": ["Physics", "Chemistry", "Biology", "Math", "CS/IP", "English", "PE"],
+          "exams": ["JEE Main", "NEET", "SAT"],
+          "olympiads": ["Physics", "Chemistry", "Biology"],
+          "skills": ["Lab design", "Simulation coding"]
+        },
+        "Commerce": {
+          "subjects": ["Accountancy", "Business Studies", "Economics", "Math/IP", "English"],
+          "exams": ["CA Foundation", "CUET", "SAT BBA"],
+          "skills": ["Finance modeling", "Reasoning"]
+        },
+        "Humanities": {
+          "subjects": ["History", "Pol Science", "Psychology", "Economics", "English", "Foreign Lang", "Fine Arts"],
+          "exams": ["CLAT", "CUET", "IB HL"],
+          "skills": ["Academic writing", "Research"]
+        }
+      }
+    },
+    "Class 12": {
+      "same_as": "Class 11 with final board exams + entrance tests"
+    }
+  },
+  "Diplomas": {
+    "After_10th": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Engineering",
+      "Pharmacy (D.Pharm)",
+      "Fashion Design",
+      "Interior Design",
+      "Digital Marketing",
+      "Medical Lab Tech",
+      "Nursing",
+      "Hotel Management",
+      "Journalism",
+      "Animation & Multimedia",
+      "Event Management",
+      "Early Childhood Education",
+      "Elementary Education (D.El.Ed)"
+    ],
+    "After_12th": [
+      "D.Pharm",
+      "D.El.Ed",
+      "DHMCT",
+      "Fashion Management",
+      "Agribusiness",
+      "Mass Communication"
+    ],
+    "Postgraduate": [
+      "PGDM",
+      "Guidance & Counselling",
+      "Library Science",
+      "Agribusiness Management",
+      "Export & Import Management",
+      "Early Childhood Education",
+      "Finance & Planning"
+    ]
+  },
+  "Higher_Education": {
+    "Short_Cycle_Tertiary": [
+      "Associate degrees",
+      "Technician Diplomas"
+    ],
+    "Bachelor": [
+      "BSc",
+      "BA",
+      "BCom",
+      "BBA",
+      "LLB",
+      "MBBS",
+      "BTech",
+      "BPharm",
+      "BFA",
+      "BEd"
+    ],
+    "Masters": [
+      "MSc",
+      "MA",
+      "MBA",
+      "MTech",
+      "MEd",
+      "LLM",
+      "MPH"
+    ],
+    "Doctorate": [
+      "PhD",
+      "EdD",
+      "DPhil",
+      "MD"
+    ]
+  }
+}
