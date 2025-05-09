@@ -1,179 +1,151 @@
 {
-  "Nursery_UKG": {
-    "age_range": "3–5",
-    "boards": "N/A",
-    "subjects_skills": [
-      "Gross & fine motor development",
-      "Oral language & phonics",
-      "Social routines",
-      "Play-based digital literacy"
-    ],
-    "exams_olympiads": []
-  },
-  "Classes": {
-    "Class 1": {
-      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
-      "difficulty": "Low–Medium",
-      "subjects": ["English", "Hindi/Regional", "Mathematics", "EVS", "General Knowledge", "Arts & Craft", "Health & PE", "Basic ICT"],
-      "exams_olympiads": ["SOF NSO", "NCO", "IMO", "IEO", "IGKO", "ISSO", "ICSO"],
-      "skills": ["Foundational literacy", "Basic math", "Motor coordination", "Creative play"]
+  "Education_Career_Path": {
+    "Preschool": {
+      "Levels": ["Nursery", "LKG", "UKG"],
+      "Skills": ["Basic Literacy", "Motor Skills", "Colors", "Shapes", "Songs", "Social Behavior"]
     },
-    "Class 2": {
-      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
-      "difficulty": "Low–Medium",
-      "subjects": ["English", "Hindi/Regional", "Mathematics", "EVS", "GK", "Value Education"],
-      "exams_olympiads": ["SOF series", "Spell-Bee", "Quiz-Bee"],
-      "skills": ["Storytelling", "Creative expression", "Digital basics"]
-    },
-    "Class 3": {
-      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
-      "difficulty": "Low–Medium",
-      "subjects": ["English", "Hindi/Regional", "Mathematics", "EVS", "GK", "ICT", "Arts", "PE"],
-      "exams_olympiads": ["SOF series", "GK contests"],
-      "skills": ["Problem-solving", "Scratch coding basics"]
-    },
-    "Class 4": {
-      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
-      "difficulty": "Low–Medium",
-      "subjects": ["English", "Hindi/Regional", "Math", "Science", "SS", "ICT", "Arts", "PE", "Second Language"],
-      "exams_olympiads": ["SOF series", "Science fair"],
-      "skills": ["Research", "Scratch advanced"]
-    },
-    "Class 5": {
-      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
-      "difficulty": "Low–Medium",
-      "subjects": ["English", "Languages", "Math", "Science", "SS", "ICT", "Arts", "PE", "Project Work"],
-      "exams_olympiads": ["SOF series", "School science fairs"],
-      "skills": ["Presentation", "Basic report writing"]
-    },
-    "Class 6": {
-      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
-      "difficulty": "Medium–High",
-      "subjects": ["English", "Second Language", "Math", "Science", "SS", "Computer Science", "Arts", "PE"],
-      "exams_olympiads": ["SOF series", "Cambridge Primary", "PSAT 8/9"],
-      "skills": ["Lab work", "Basic coding", "Debate"]
-    },
-    "Class 7": {
-      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
-      "difficulty": "Medium–High",
-      "subjects": ["Core + Third Language", "Advanced CS"],
-      "exams_olympiads": ["SOF", "State talent-search", "Robotics fairs"],
-      "skills": ["Data handling", "Public speaking"]
-    },
-    "Class 8": {
-      "boards": ["CBSE", "ICSE", "State Boards", "NIOS"],
-      "difficulty": "Medium–High",
-      "subjects": ["English", "Math", "Science", "SS", "ICT", "Arts", "PE"],
-      "exams_olympiads": ["SOF series", "Board assessments"],
-      "skills": ["Basic HTML/CSS", "Group presentation"]
-    },
-    "Class 9": {
-      "boards": ["CBSE", "ICSE", "IGCSE", "State Boards", "NIOS"],
-      "difficulty": "Medium–High",
-      "subjects": ["English", "Languages", "Math", "Science", "SS", "Electives"],
-      "exams_olympiads": ["SOF", "IGCSE", "PSAT", "IELTS"],
-      "skills": ["Essay writing", "Time management"]
-    },
-    "Class 10": {
-      "boards": ["CBSE", "ICSE", "IGCSE", "State Boards", "NIOS"],
-      "difficulty": "Medium–High",
-      "subjects": ["Same as Class 9 with practicals"],
-      "exams_olympiads": ["Board exams", "Olympiads", "SAT", "AP"],
-      "skills": ["Exam strategy", "Lab skills"]
-    },
-    "Class 11": {
-      "streams": {
-        "Science": {
-          "boards": ["CBSE", "ICSE", "IB"],
-          "subjects": ["Physics", "Chemistry", "Biology", "Math", "CS/IP", "English", "PE"],
-          "exams": ["JEE Main", "NEET", "SAT"],
-          "olympiads": ["Physics", "Chemistry", "Biology"],
-          "skills": ["Lab design", "Simulation coding"]
-        },
-        "Commerce": {
-          "subjects": ["Accountancy", "Business Studies", "Economics", "Math/IP", "English"],
-          "exams": ["CA Foundation", "CUET", "SAT BBA"],
-          "skills": ["Finance modeling", "Reasoning"]
-        },
-        "Humanities": {
-          "subjects": ["History", "Pol Science", "Psychology", "Economics", "English", "Foreign Lang", "Fine Arts"],
-          "exams": ["CLAT", "CUET", "IB HL"],
-          "skills": ["Academic writing", "Research"]
-        }
+    "Primary_Education": {
+      "Class_1": {
+        "Subjects": ["Math", "EVS", "English", "Hindi", "Art"],
+        "Boards": ["CBSE", "ICSE", "State Boards"],
+        "Olympiads": ["NSO", "IEO"],
+        "Skills": ["Basic Reading", "Drawing", "Simple Coding"]
+      },
+      "Class_2": {
+        "Subjects": ["Math", "EVS", "English", "Hindi", "Music"],
+        "Olympiads": ["IMO", "NSO"],
+        "Skills": ["Reading Comprehension", "Communication"]
+      },
+      "Class_3": {
+        "Subjects": ["Math", "EVS", "English", "Hindi", "Computer Basics"],
+        "Olympiads": ["NSO", "IEO", "GK Olympiad"],
+        "Skills": ["Basic Typing", "Storytelling"]
+      },
+      "Class_4": {
+        "Subjects": ["Math", "Science", "English", "Social Studies", "Language"],
+        "Olympiads": ["NSO", "IMO", "IEO"],
+        "Skills": ["Scratch Programming", "Reading Maps"]
+      },
+      "Class_5": {
+        "Subjects": ["Math", "Science", "English", "Social Science"],
+        "Olympiads": ["NSTSE", "SilverZone"],
+        "Skills": ["Creative Writing", "Mental Math"]
       }
     },
-    "Class 12": {
-      "same_as": "Class 11 with final board exams + entrance tests"
+    "Lower_Secondary": {
+      "Class_6": {
+        "Subjects": ["Math", "Science", "English", "History", "Geography", "Computer Science"],
+        "Olympiads": ["NSO", "IMO", "IEO", "NSTSE"],
+        "Skills": ["Python Basics", "Art", "Robotics"]
+      },
+      "Class_7": {
+        "Subjects": ["Math", "Science", "English", "History", "Geography", "ICT"],
+        "Olympiads": ["NSO", "IOF", "IMO"],
+        "Skills": ["HTML Basics", "Debate"]
+      },
+      "Class_8": {
+        "Subjects": ["Math", "Physics", "Chemistry", "Biology", "Civics"],
+        "Olympiads": ["SOF", "NSTSE"],
+        "Skills": ["Basic App Development", "Presentation Skills"]
+      }
+    },
+    "Upper_Secondary": {
+      "Class_9": {
+        "Streams": ["General Science", "Commerce Foundation", "Humanities Foundation"],
+        "Subjects": ["Physics", "Chemistry", "Biology", "Math", "Economics", "History", "Political Science"],
+        "Exams": ["IOQM", "NTSE Stage 1"],
+        "Skills": ["Scientific Method", "Statistical Basics"]
+      },
+      "Class_10": {
+        "Exams": ["Board Exams (CBSE/ICSE/State)", "NTSE Stage 2"],
+        "Skills": ["Time Management", "Exam Writing"],
+        "Board_Difficulty": {
+          "CBSE": "Moderate & Conceptual",
+          "ICSE": "Theory-Heavy & Broad",
+          "State_Boards": "Varies by State, Generally Moderate"
+        }
+      },
+      "Class_11": {
+        "Streams": {
+          "Science": ["PCM", "PCB", "Computer Science"],
+          "Commerce": ["Accounts", "Economics", "Business Studies"],
+          "Arts": ["History", "Geography", "Political Science", "Psychology"]
+        },
+        "Skills": ["Critical Thinking", "Advanced Math"]
+      },
+      "Class_12": {
+        "Board_Exams": true,
+        "Entrance_Exams": ["JEE Main", "NEET", "CUET", "CLAT", "NDA"],
+        "Skills": ["Test Prep Strategy", "Time Bound Problem Solving"]
+      }
+    },
+    "After_12th": {
+      "UG_Courses": {
+        "Science": ["BSc", "BTech", "MBBS", "BDS"],
+        "Commerce": ["BCom", "BBA", "CA", "CS"],
+        "Arts": ["BA", "BJMC", "BFA"],
+        "Law": ["BA LLB"],
+        "Design": ["B.Des", "B.Arch"]
+      },
+      "Diploma_Options": {
+        "Engineering": ["Mechanical", "Electrical", "Civil"],
+        "Health": ["GNM", "Pharmacy"],
+        "IT": ["Web Design", "Hardware Networking"]
+      },
+      "International_Exams": ["SAT", "IELTS", "TOEFL", "ACT"],
+      "Govt_Exams": ["NDA", "CLAT", "CUET"]
+    },
+    "Postgraduate": {
+      "Degrees": ["MTech", "MBA", "MSc", "MCom", "MA"],
+      "Entrance_Exams": ["GATE", "CAT", "CUET PG", "GRE", "GMAT"]
+    },
+    "Doctorate": {
+      "PhD": {
+        "Fields": ["Science", "Engineering", "Social Sciences", "Commerce", "Literature"],
+        "Eligibility": "PG Degree",
+        "Exams": ["NET", "JRF", "University-specific Entrance"]
+      }
+    },
+    "Career_Exams_And_Outcomes": {
+      "NEET": {
+        "Courses": ["MBBS", "BDS", "BAMS", "BHMS"],
+        "After_UG": ["MD", "MS", "DM"]
+      },
+      "JEE_Main": {
+        "Colleges": ["NIT", "IIIT"],
+        "Next_Step": "JEE Advanced"
+      },
+      "JEE_Advanced": {
+        "Colleges": ["IITs", "IISc"],
+        "After_BTech": ["MTech", "MBA via CAT", "PhD"]
+      },
+      "GATE": {
+        "Opportunities": ["MTech", "PSU Jobs", "PhD Admissions"]
+      },
+      "UPSC_CSE": {
+        "Posts": ["IAS", "IPS", "IFS", "IRS"],
+        "Path": "Graduate > UPSC Prep > Prelims > Mains > Interview"
+      },
+      "SSC_CGL": {
+        "Jobs": ["Income Tax Officer", "Audit Officer", "Excise Inspector"]
+      },
+      "CLAT": {
+        "Colleges": ["NLUs"],
+        "Career_Paths": ["Lawyer", "Judiciary", "Legal Advisor"]
+      },
+      "CAT": {
+        "Colleges": ["IIMs", "FMS", "XLRI"],
+        "Course": "MBA",
+        "Careers": ["Manager", "Consultant", "Entrepreneur"]
+      },
+      "NDA": {
+        "Services": ["Army", "Navy", "Air Force"],
+        "Training": "NDA Khadakwasla"
+      },
+      "NET_JRF": {
+        "Careers": ["Professor", "Researcher"],
+        "Scholarship": "JRF Stipend for PhD"
+      }
     }
-  },
-  "Diplomas": {
-    "After_10th": [
-      "Civil Engineering",
-      "Mechanical Engineering",
-      "Electrical Engineering",
-      "Computer Engineering",
-      "Pharmacy (D.Pharm)",
-      "Fashion Design",
-      "Interior Design",
-      "Digital Marketing",
-      "Medical Lab Tech",
-      "Nursing",
-      "Hotel Management",
-      "Journalism",
-      "Animation & Multimedia",
-      "Event Management",
-      "Early Childhood Education",
-      "Elementary Education (D.El.Ed)"
-    ],
-    "After_12th": [
-      "D.Pharm",
-      "D.El.Ed",
-      "DHMCT",
-      "Fashion Management",
-      "Agribusiness",
-      "Mass Communication"
-    ],
-    "Postgraduate": [
-      "PGDM",
-      "Guidance & Counselling",
-      "Library Science",
-      "Agribusiness Management",
-      "Export & Import Management",
-      "Early Childhood Education",
-      "Finance & Planning"
-    ]
-  },
-  "Higher_Education": {
-    "Short_Cycle_Tertiary": [
-      "Associate degrees",
-      "Technician Diplomas"
-    ],
-    "Bachelor": [
-      "BSc",
-      "BA",
-      "BCom",
-      "BBA",
-      "LLB",
-      "MBBS",
-      "BTech",
-      "BPharm",
-      "BFA",
-      "BEd"
-    ],
-    "Masters": [
-      "MSc",
-      "MA",
-      "MBA",
-      "MTech",
-      "MEd",
-      "LLM",
-      "MPH"
-    ],
-    "Doctorate": [
-      "PhD",
-      "EdD",
-      "DPhil",
-      "MD"
-    ]
   }
 }
